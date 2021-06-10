@@ -1,5 +1,5 @@
 autopep8==1.5.3
-Django==2.0
+Django==2.2.24
 django-rest-passwordreset==1.1.0
 djangorestframework==3.11.0
 djangorestframework-simplejwt==4.4.0
